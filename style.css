@@ -1,0 +1,16 @@
+body {
+    background-image: url("./assets/Shadowkeep.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff
+}
+
+#days, #hours, #minutes, #seconds {
+    display: inline-block;
+}
+
+#container {
+    margin-top: 100px;
+}
